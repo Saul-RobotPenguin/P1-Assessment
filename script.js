@@ -159,3 +159,13 @@ function feastOrFamine(animal, food) {
 
 feastOrFamine("cat", "chicken cutlet");
 feastOrFamine("cat", "chicken cutletg");
+
+// EXTRA CREDIT
+
+/* I believe that the one who got chosen to get to the next round was person 1 and person 2, because they both demonstarted
+that they could get to the answer no matter the situation. In the end, I believe (I dont actually know) that google would
+have tougher question or siuations where they don't expect the developer to know the answer to. However they do expect them
+to reach the answer somehow, whether it be with looking up resources or not. They don't expect everyone to memorize each
+algorithim but rather come with a way to tackle it and reach a conclusion.
+But This is what I  WANT TO believe, I already know person 1 got in and person 2 didn't but I'm rooting for both.
+*/
